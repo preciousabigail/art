@@ -20,13 +20,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title:ArtAppreciation  
+title: ArtAppreciation  
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline:"a database for creating simple digital exhibits showcasing some crafts of unique people"
+tagline: "a database for creating simple digital exhibits showcasing some crafts of unique people"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: ArtAppreciation is a template for educational purposes and for showing database 
-author:config.yml
+author: config.yml
 
 ##########
 # COLLECTION SETTINGS
